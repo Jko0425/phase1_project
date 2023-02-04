@@ -13,12 +13,12 @@ A conglomerate of data from different databases is used in this project. The nam
 ## Results/Analysis
 The films that are in the top 10% of earnings, have ratings considerably higher than the average. The _Highest ROI_ and _Lowest ROI_ contains returns that are in the top 10% and bottom 10% respectively; whereas, the _Mid ROI_ contains a number of returns above and below the overall median.
 ![boxplot](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/boxplot.png)
-The following scatter plots demonstrates a similar theme; film series often dominate the box office. These films also have higher ratings most likely due to their cult-like following (e.g. Marvel). Films directed by Steven Spielburg (one of the most prominent directors) are well below the top 10% of earners, while averaging higher ratings.
-![scatter_directors](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/scatter_directors.png)
+The following bar chart demonstrates a similar theme; film series often dominate the box office. These films also have higher ratings most likely due to their cult-like following (e.g. Marvel). Films directed by Steven Spielburg (one of the most prominent directors) are well below the top 10% of earners, while averaging higher ratings.
+![scatter_directors](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/bar_chart_directors.png)
 The writers' scatterplot shows how an original idea can become a successful franchise as seen by Ken Daurio's _Despicable Me_ and Geogre Lucas' _Star Wars_. The Coen brothers, despite their decorated original scripts, routinely score below the top 10%. 
-![scatter_writers](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/scatter_writers.png)
+![scatter_writers](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/bar_chart_writers.png)
 Again, actors/actresses that are involved in series rountinely having higher ROIs than their counterparts.
-![scatter_actors](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/scatter_actors.png)
+![scatter_actors](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/bar_chart_actors.png)
 Action and adventure genres seem to dominant the big screen. This may be the result of the oversaturation of superhero movies. 
 ![hist_genres](https://github.com/Jko0425/phase1_project/blob/main/Data_charts/hist_genres.png)
 When looking at which films had the greatest return as a percentage comedy drama and horror seem to dominate. This may be do to the low budget needed to produce these films, whereas action and adventure films require a substantially high budget.
